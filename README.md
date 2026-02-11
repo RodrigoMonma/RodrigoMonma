@@ -1,4 +1,4 @@
-## Hi there 👋
+## Opa tudo certo? Sou Rodrigo Monma, aluno da subB de engenharia da computação no Cesupa, e tenho interesse em aprender a programar e em jogos (meu nick pra quase todo jogo é ColdTron12). Para esse semestre tenho o objetivo de deixar de ser leigo em tudo que é ligado à programação.
 
 <!--
 **RodrigoMonma/RodrigoMonma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
